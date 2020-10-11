@@ -1,3 +1,3 @@
-module github.com/fredy33/urlquery
+module github.com/freddy33/urlquery
 
 go 1.13
